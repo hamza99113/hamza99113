@@ -1,7 +1,7 @@
 ### Hi, I am Ali Hamza! 👋
 
 - 👯 BS Computer Science from Air University Islamabad.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning Data Engineering and MERN Stack.
 - 📫 How to reach me: alihamza99113@gmail.com
 
 
